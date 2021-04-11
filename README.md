@@ -1,12 +1,14 @@
-### Hi there 👋
+### Welcome to my GitHub profile. 👋  
   
 Hi, I'm [Luan Jian](https://github.com/LuanJian), a person who likes to learn and discover surprises on GitHub.  
-I can't write anything, so please don't follow me, thanks!:rofl:  
+I can't write anything, so please don't follow me, thanks! :rofl:  
   
 📈 My GitHub Stats  
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanJian&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-
+  
+</br>[![Visits Badge](https://badges.pufler.dev/visits/LuanJian/LuanJian)](https://badges.pufler.dev)  
+  
 <!--
 **LuanJian/LuanJian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
