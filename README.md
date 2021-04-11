@@ -1,10 +1,8 @@
 ### Hi there 👋
   
-<br/>
+Hi, I'm [Luan Jian](https://github.com/LuanJian), a person who likes to learn and discover surprises on GitHub.  
+I can't write anything, so please don't follow me, thanks!:rofl:  
   
-Hi, I'm [Luan Jian](https://github.com/LuanJian), a person who likes to learn and discover surprises on GitHub. I don't know how to do anything, so please don't follow me, thanks!
-<br/>
-
 📈 My GitHub Stats  
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanJian&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
@@ -26,4 +24,5 @@ Here are some ideas to get you started:
 
 <!--
 [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+[abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 -->
